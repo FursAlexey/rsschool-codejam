@@ -1,0 +1,28 @@
+{
+  "name": "codejam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mockery": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FursAleksey/rsschool-codejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FursAleksey/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/FursAleksey/rsschool-codejam#readme"
+}
